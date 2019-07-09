@@ -1,0 +1,11 @@
+/Users/jason/Workspace/csharp/exercises/dictionary-of-words/bin/Debug/netcoreapp2.2/dictionary-of-words.deps.json
+/Users/jason/Workspace/csharp/exercises/dictionary-of-words/bin/Debug/netcoreapp2.2/dictionary-of-words.runtimeconfig.json
+/Users/jason/Workspace/csharp/exercises/dictionary-of-words/bin/Debug/netcoreapp2.2/dictionary-of-words.runtimeconfig.dev.json
+/Users/jason/Workspace/csharp/exercises/dictionary-of-words/bin/Debug/netcoreapp2.2/dictionary-of-words.dll
+/Users/jason/Workspace/csharp/exercises/dictionary-of-words/bin/Debug/netcoreapp2.2/dictionary-of-words.pdb
+/Users/jason/Workspace/csharp/exercises/dictionary-of-words/obj/Debug/netcoreapp2.2/dictionary-of-words.csprojAssemblyReference.cache
+/Users/jason/Workspace/csharp/exercises/dictionary-of-words/obj/Debug/netcoreapp2.2/dictionary-of-words.csproj.CoreCompileInputs.cache
+/Users/jason/Workspace/csharp/exercises/dictionary-of-words/obj/Debug/netcoreapp2.2/dictionary-of-words.AssemblyInfoInputs.cache
+/Users/jason/Workspace/csharp/exercises/dictionary-of-words/obj/Debug/netcoreapp2.2/dictionary-of-words.AssemblyInfo.cs
+/Users/jason/Workspace/csharp/exercises/dictionary-of-words/obj/Debug/netcoreapp2.2/dictionary-of-words.dll
+/Users/jason/Workspace/csharp/exercises/dictionary-of-words/obj/Debug/netcoreapp2.2/dictionary-of-words.pdb
